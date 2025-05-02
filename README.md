@@ -9,7 +9,7 @@
 </div>
 
 ---
-<h2 align="center">🔭 A passionate DevOps Engineer from India. I work in the Corporate IT Sector Ex @EY @Wipro</h2>
+<h2 align="center">🔭 A passionate DevOps Engineer from India</h2>
  
 👨‍💻 All of my projects are available at [https://github.com/6288mani](https://github.com/6288mani)<br>
 👯 Ask me about **DevOps & Cloud DevOps**<br>🌱 Keep Learning, Sharing & Growing<br>
