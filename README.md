@@ -9,14 +9,14 @@
 </div>
 
 ---
-<h2 align="center">🔭 A passionate DevOps Engineer from India</h2>
+## <h2 align="center">🔭 A passionate DevOps Engineer from India</h2>
  
 👨‍💻 All of my projects are available at [https://github.com/6288mani](https://github.com/6288mani)<br>
-👯 Ask me about **DevOps & Cloud DevOps**<br>🌱 Keep Learning, Sharing & Growing<br>
+👯 Ask me about **DevOps & Cloud DevOps**<br>🎓 Keep Learning, Sharing & Growing<br>
 
 ---
 
-<h3>💻 Languages and Tools I Use 🚀</h3>
+## 💻 Tech Stack I Rely On 🚀
 
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
@@ -50,6 +50,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" alt="logstash" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="kibana" width="42" height="42" /></a></p>
 
+
 ---
 
 ## 🌐 Connet with Me :
@@ -62,23 +63,39 @@
 
 ---
 
-## 🎓 Certifications :
+## 🥇 Certifications
 
-   <a href="https://learn.microsoft.com/en-us/users/balavenkatamanikumarvallapu-3367/credentials/e63a292cc9231acf" target="_blank">
-        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="View Certificate" width="75" height="75" />
-    </a>
-    
+  <table style="width: 80%; border-spacing: 20px; text-align: center;">
+    <tr>
+      <td>
+        <a href="https://learn.microsoft.com/en-us/users/balavenkatamanikumarvallapu-3367/credentials/e63a292cc9231acf" target="_blank">
+          <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" 
+               alt="Microsoft Certified Badge" width="150" height="150" style="display: block; margin: 0 auto;" />
+        </a>
+        <p>Microsoft Certified: Azure Fundamentals</p>
+      </td>
+    </tr>
+  </table>
+
 ---
 
-## 📄 Resume
+## 📜 Resume
+  <div style="flex: 1; text-align: center;">
+    <a href="https://github.com/6288mani/6288mani/blob/main/Resume/Bala_DevOps_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/-Download%20Resume-4CAF50?logo=adobeacrobatreader&logoColor=white&style=for-the-badge" 
+           alt="Download Resume" width="200" />
+    </a>
+    <p>Click here to download Resume</p>
+  </div>
 
-[![Download Resume](https://img.shields.io/badge/-Download%20Resume-4CAF50?logo=adobeacrobatreader&logoColor=white&style=for-the-badge)](https://github.com/6288mani/6288mani/blob/main/Resume/Bala_DevOps_Resume.pdf)
+</div>
+
 
 ---
 
 # 📊 My Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=6288mani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=6288mani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=6288mani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=6288mani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -90,14 +107,14 @@
 
 ---
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=6288mani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
