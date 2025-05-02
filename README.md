@@ -2,8 +2,12 @@
 <h1>💫 Hello Everyone👋, I'm Bala Venkata Mani Kumar</h1>
 </div>
 
+---
+
 🔭 A passionate DevOps Engineer from India. I work in the Corporate IT Sector<br> 👨‍💻 All of my projects are available at [https://github.com/6288mani](https://github.com/6288mani)<br>
 👯 Ask me about **DevOps & Cloud DevOps**<br>🌱 Keep Learning, Sharing & Growing<br>
+
+---
 
 <h2>💻 Languages and Tools I Use 🚀</h2>
 
@@ -36,7 +40,9 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="42" height="42" /></a></p>
 
-## 🌐 Socials
+---
+
+## 🌐 Connet with Me :
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvmk04@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bala@) 
@@ -44,20 +50,42 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bala@) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bala@)
 
-# 📊 GitHub Stats
+---
+
+## 🎓 Certifications :
+
+- **Microsoft Certified: Azure Fundamentals**  
+
+---
+
+## 📄 Resume
+
+[![Download Resume](https://img.shields.io/badge/-Download%20Resume-000?logo=adobeacrobatreader&logoColor=EC1C24&style=for-the-badge)](https://github.com/6288mani/6288mani/Resume/raw/main/Bala_Resume.pdf)
+
+---
+
+# 📊 My Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=6288mani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=6288mani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=6288mani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=6288mani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=6288mani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
