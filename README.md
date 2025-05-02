@@ -60,7 +60,7 @@
 
 ## 📄 Resume
 
-[![Download Resume](https://img.shields.io/badge/-Download%20Resume-000?logo=adobeacrobatreader&logoColor=EC1C24&style=for-the-badge)](https://github.com/6288mani/6288mani/Resume/raw/main/Bala_DevOps_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/-Download%20Resume-000?logo=adobeacrobatreader&logoColor=EC1C24&style=for-the-badge)]([Resume/Bala_DevOps_Resume.pdf](https://github.com/6288mani/6288mani/blob/ffaa1cc5dc065ee2d74f8347fcc08585a3fb5349/Resume/Bala_DevOps_Resume.pdf))
 
 ---
 
