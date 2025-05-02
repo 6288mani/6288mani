@@ -64,9 +64,9 @@
 
 ## 🎓 Certifications :
 
-- **Microsoft Certified: Azure Fundamentals**  
-    [![View Certificate](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)](https://learn.microsoft.com/en-us/users/balavenkatamanikumarvallapu-3367/credentials/e63a292cc9231acf)<br>
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure Fundamentals" width="42" height="42" />
+   <a href="https://learn.microsoft.com/en-us/users/balavenkatamanikumarvallapu-3367/credentials/e63a292cc9231acf" target="_blank">
+        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="View Certificate" width="75" height="75" />
+    </a>
     
 ---
 
