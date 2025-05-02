@@ -65,6 +65,7 @@
 ## 🎓 Certifications :
 
 - **Microsoft Certified: Azure Fundamentals**  
+    [![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) 
 
 ---
 
