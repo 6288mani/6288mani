@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/6288mani/6288mani/banner.png" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/6288mani/6288mani/main/banner.png" alt="Banner" width="100%" />
 </div>
 
 ---
