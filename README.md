@@ -4,7 +4,14 @@
 
 ---
 
-🔭 A passionate DevOps Engineer from India. I work in the Corporate IT Sector<br> 👨‍💻 All of my projects are available at [https://github.com/6288mani](https://github.com/6288mani)<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/6288mani/banner.png" alt="Banner" width="100%" />
+</div>
+
+---
+<h2align="center">  🔭 A passionate DevOps Engineer from India. I work in the Corporate IT Sector Ex @EY @Wipro </h2> 
+ 
+👨‍💻 All of my projects are available at [https://github.com/6288mani](https://github.com/6288mani)<br>
 👯 Ask me about **DevOps & Cloud DevOps**<br>🌱 Keep Learning, Sharing & Growing<br>
 
 ---
@@ -38,7 +45,10 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="42" height="42" /></a></p>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" alt="logstash" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="kibana" width="42" height="42" /></a></p>
 
 ---
 
