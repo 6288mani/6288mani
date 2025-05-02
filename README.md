@@ -5,18 +5,18 @@
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/6288mani/6288mani/main/banner.png" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/6288mani/6288mani/main/Banner.png" alt="Banner" width="100%" />
 </div>
 
 ---
-<h2align="center">  🔭 A passionate DevOps Engineer from India. I work in the Corporate IT Sector Ex @EY @Wipro </h2> 
+<h2 align="center">🔭 A passionate DevOps Engineer from India. I work in the Corporate IT Sector Ex @EY @Wipro</h2>
  
 👨‍💻 All of my projects are available at [https://github.com/6288mani](https://github.com/6288mani)<br>
 👯 Ask me about **DevOps & Cloud DevOps**<br>🌱 Keep Learning, Sharing & Growing<br>
 
 ---
 
-<h2>💻 Languages and Tools I Use 🚀</h2>
+<h3>💻 Languages and Tools I Use 🚀</h3>
 
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
