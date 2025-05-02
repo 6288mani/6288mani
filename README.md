@@ -9,8 +9,9 @@
 </div>
 
 ---
+
 ## <h2 align="center">🔭 A passionate DevOps Engineer from India</h2>
- 
+
 👨‍💻 All of my projects are available at [https://github.com/6288mani](https://github.com/6288mani)<br>
 👯 Ask me about **DevOps & Cloud DevOps**<br>🎓 Keep Learning, Sharing & Growing<br>
 
@@ -34,7 +35,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="42" height="42" /></a>
+<a target="_blank" href="https://trivy.dev/v0.22.0/imgs/logo.png" style="display: inline-block;"><img src="https://trivy.dev/v0.22.0/imgs/logo.png" alt="trivy" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" alt="jfrog" width="42" height="42" /></a>
+ <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_of_Sonatype_Nexus_Repository.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_of_Sonatype_Nexus_Repository.svg" alt="nexus" width="50" height="50" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="42" height="42" /></a>
@@ -50,15 +53,14 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" alt="logstash" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="kibana" width="42" height="42" /></a></p>
 
-
 ---
 
-## 🌐 Connet with Me :
+## 🌐 Connet with Me
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvmk04@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bala@) 
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bala@) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bala@) 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvmk04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bala@)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bala@)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bala@)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bala@)
 
 ---
@@ -69,7 +71,7 @@
     <tr>
       <td>
         <a href="https://learn.microsoft.com/en-us/users/balavenkatamanikumarvallapu-3367/credentials/e63a292cc9231acf" target="_blank">
-          <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" 
+          <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
                alt="Microsoft Certified Badge" width="150" height="150" style="display: block; margin: 0 auto;" />
         </a>
         <p>Microsoft Certified: Azure Fundamentals</p>
@@ -80,9 +82,10 @@
 ---
 
 ## 📜 Resume
+
   <div style="flex: 1; text-align: center;">
     <a href="https://github.com/6288mani/6288mani/blob/main/Resume/Bala_DevOps_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/-Download%20Resume-4CAF50?logo=adobeacrobatreader&logoColor=white&style=for-the-badge" 
+      <img src="https://img.shields.io/badge/-Download%20Resume-4CAF50?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"
            alt="Download Resume" width="200" />
     </a>
     <p>Click here to download Resume</p>
@@ -90,10 +93,9 @@
 
 </div>
 
-
 ---
 
-# 📊 My Stats :
+# 📊 My Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=6288mani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=6288mani&theme=dark&hide_border=false)<br/>
