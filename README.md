@@ -13,7 +13,7 @@
 
 ---
 
-## <h2 align="center">🔭 A passionate DevOps Engineer from India</h2>
+## <h2 align="center">🔭 About Me </h2>
 
 👨‍💻 All of my projects are available at [https://github.com/6288mani](https://github.com/6288mani)<br>
 👯 Ask me about **DevOps & Cloud DevOps**<br>🎓 Keep Learning, Sharing & Growing<br>
