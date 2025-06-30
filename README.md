@@ -1,7 +1,7 @@
 <div align="center">
 <h1>💫 Hello Everyone👋, I'm Bala Venkata Mani Kumar</h1>
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Bala Venkata Mani Kumar;+Welcome+to+My+Profile!;Over+a+decade+of+programming+experience;AWS+Enthusiast;Always+learning+new+things+;Frontend+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Bala+Venkata+Mani+Kumar;+Welcome+to+My+Profile!;Over+a+decade+of+programming+experience;AWS+Enthusiast;Always+learning+new+things+;Frontend+enthusiast)](https://git.io/typing-svg)
 ---
 
 <div align="center">
