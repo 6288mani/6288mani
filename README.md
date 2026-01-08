@@ -57,6 +57,122 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="kibana" width="42" height="42" /></a></p>
 
 ---
+## 💻 Tech Stack I Rely On 🚀
+
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Skills</th>
+  </tr>
+
+  <tr>
+    <td><b>Operating Systems</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Scripting</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Cloud Platforms</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Version Control</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>CI / CD</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" width="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Build Tools</b></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="32"/>
+      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Code Quality & Security</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="32"/>
+      <img src="https://trivy.dev/v0.22.0/imgs/logo.png" width="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Artifact Repositories</b></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="32"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_of_Sonatype_Nexus_Repository.svg" width="38"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Web & App Servers</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Containers & IaC</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Monitoring & Logging</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" width="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>API Tools</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32"/>
+    </td>
+  </tr>
+</table>
+
+```
+
+---
 
 ## 🌐 Connet with Me
 
