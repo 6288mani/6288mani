@@ -89,63 +89,9 @@
     </td>
   </tr>
 </table>
+
 ---
-## 💻 Tech Stack I Rely On 🚀
 
-<table>
-  <tr>
-    <th align="left">Category</th>
-    <th align="left">Skills</th>
-  </tr>
-
-  <!-- Cloud Platforms -->
-  <tr>
-    <td><b>Cloud Platforms</b></td>
-    <td>
-      <!-- AWS official logo -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
-      <!-- Azure official logo -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" title="Azure"/>
-    </td>
-  </tr>
-
-  <!-- Azure Platform -->
-  <tr>
-    <td><b>Azure Platform</b></td>
-    <td>
-      <!-- Azure Data Factory -->
-      <img src="https://raw.githubusercontent.com/maskati/azure-icons/master/Data%20Factory/Data%20factory.svg" width="36" title="Azure Data Factory"/>
-      <!-- Azure Databricks -->
-      <img src="https://raw.githubusercontent.com/maskati/azure-icons/master/Databricks/Azure%20Databricks.svg" width="36" title="Azure Databricks"/>
-      <!-- Azure Data Lake Storage (generic lake icon) -->
-      <img src="https://raw.githubusercontent.com/maskati/azure-icons/master/Data%20Lake%20Storage/Data%20Lake%20Storage%20Gen2.svg" width="36" title="Azure Data Lake Storage Gen2"/>
-      <!-- Azure Key Vault -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Azure_key_vault_logo.svg" width="36" title="Azure Key Vault"/>
-      <!-- Microsoft Fabric -->
-      <img src="https://raw.githubusercontent.com/azure-icons/microsoft-fabric/main/color/Microsoft_Fabric.svg" width="36" title="Microsoft Fabric"/>
-    </td>
-  </tr>
-
-  <!-- Languages & Querying -->
-  <tr>
-    <td><b>Languages & Querying</b></td>
-    <td>
-      <!-- SQL icon (generic) -->
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sqlite.svg" width="40" title="SQL"/>
-      <!-- PySpark (Apache Spark official) -->
-      <img src="https://raw.githubusercontent.com/apache/spark/master/logo/spark-logo.svg" width="40" title="PySpark"/>
-      <!-- Python official -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-      <!-- YAML icon -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="40" title="YAML"/>
-      <!-- Jinja official logo -->
-      <img src="https://raw.githubusercontent.com/niiknow/jinja2-logo/master/jinja2.svg" width="40" title="Jinja"/>
-      <!-- dbt official logo -->
-      <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/main/etc/dbt-logo-full.svg" width="48" title="dbt"/>
-    </td>
-  </tr>
-</table>
----
 ## 🌐 Connet with Me
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvmk04@gmail.com)
