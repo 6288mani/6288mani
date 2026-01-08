@@ -77,16 +77,16 @@
           <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
                alt="Microsoft Certified Badge" width="100" height="100" style="display: block; margin: 0 auto;" />
         </a>
-        <p>Microsoft Certified: Azure Fundamentals</p>
+        <p>Azure Fundamentals</p>
       </td>
     </tr>
         <tr>
       <td>
         <a href="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" target="_blank">
-          <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
+          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
                alt="Microsoft Certified Badge" width="100" height="100" style="display: block; margin: 0 auto;" />
         </a>
-        <p>Microsoft Certified: Fabric Data Engineer Associate</p>
+        <p>Fabric Data Engineer Associate</p>
       </td>
     </tr>
   </table>
