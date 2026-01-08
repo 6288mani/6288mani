@@ -158,8 +158,8 @@
   <tr>
     <td><b>Operating Systems</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" title="Linux"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="32" title="Windows"/>
     </td>
   </tr>
 
@@ -167,20 +167,12 @@
   <tr>
     <td><b>Languages & Querying</b></td>
     <td>
-      <!-- Python -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/>
-      <!-- PySpark (generic Apache Spark) -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="32" title="PySpark"/>
-      <!-- SQL (generic SQL icon) -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" title="SQL"/>
-      <!-- YAML (generic) -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" width="32"/>
-      <!-- Bash -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="32"/>
-      <!-- Jinja (community SVG) -->
-      <img src="https://raw.githubusercontent.com/niiknow/jinja2-logo/master/jinja2.svg" width="40" title="Jinja"/>
-      <!-- dbt official svg from repo -->
-      <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/main/etc/dbt-logo-full.svg" width="48" title="dbt"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" title="Python"/>
+      <img src="https://raw.githubusercontent.com/apache/spark/master/logo/spark-logo.svg" width="32" title="PySpark"/>
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sqlite.svg" width="32" title="SQL"/>
+      <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/main/etc/dbt-logo-full.svg" width="42" title="dbt"/>
+      <img src="https://raw.githubusercontent.com/niiknow/jinja2-logo/master/jinja2.svg" width="32" title="Jinja"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="32" title="Bash"/>
     </td>
   </tr>
 
@@ -188,10 +180,8 @@
   <tr>
     <td><b>Cloud Platforms</b></td>
     <td>
-      <!-- AWS official logo from Devicon -->
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="38" title="AWS"/>
-      <!-- Azure official logo from Devicon -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32" title="Azure"/>
+      <img src="https://logo.svgcdn.com/logos/azure-icon.svg" width="32" title="Azure"/> :contentReference[oaicite:0]{index=0}
     </td>
   </tr>
 
@@ -199,16 +189,11 @@
   <tr>
     <td><b>Azure Platform</b></td>
     <td>
-      <!-- Azure Data Factory icon from Azure Icons collection -->
-      <img src="https://raw.githubusercontent.com/maskati/azure-icons/master/Data%20Factory/Data%20factory.svg" width="32" title="Azure Data Factory"/>
-      <!-- Azure Data Lake Storage Gen2 icon -->
-      <img src="https://raw.githubusercontent.com/maskati/azure-icons/master/Data%20Lake%20Storage/Data%20Lake%20Storage%20Gen2.svg" width="32" title="ADLS Gen2"/>
-      <!-- Azure Key Vault icon -->
-      <img src="https://raw.githubusercontent.com/maskati/azure-icons/master/Security/Azure%20Key%20Vault.svg" width="32" title="Azure Key Vault"/>
-      <!-- Microsoft Fabric icon -->
+      <img src="https://logo.svgcdn.com/devicon/azuredatafactory-original.svg" width="32" title="Azure Data Factory"/> :contentReference[oaicite:1]{index=1}
+      <img src="https://raw.githubusercontent.com/thedevs-network/awesome-logos/master/icons/azure-databricks.svg" width="32" title="Azure Databricks"/>
+      <img src="https://raw.githubusercontent.com/azure-icons/azure-icons/main/svg/Data%20Lake%20Storage%20Gen1.svg" width="32" title="Azure Data Lake Storage Gen2"/> :contentReference[oaicite:2]{index=2}
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Azure_key_vault_logo.svg" width="32" title="Azure Key Vault"/> :contentReference[oaicite:3]{index=3}
       <img src="https://raw.githubusercontent.com/azure-icons/microsoft-fabric/main/color/Microsoft_Fabric.svg" width="32" title="Microsoft Fabric"/>
-      <!-- Azure Databricks icon -->
-      <img src="https://raw.githubusercontent.com/maskati/azure-icons/master/Databricks/Azure%20Databricks.svg" width="32" title="Azure Databricks"/>
     </td>
   </tr>
 
@@ -216,7 +201,6 @@
   <tr>
     <td><b>Data Engineering</b></td>
     <td>
-      <!-- Generic icons for concepts (optional / placeholder) -->
       <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="32" title="Data Modeling"/>
       <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="32" title="Data Warehousing"/>
       <img src="https://cdn-icons-png.flaticon.com/512/2920/2920329.png" width="32" title="Data Quality"/>
@@ -229,7 +213,6 @@
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32" title="SQL Server"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL"/>
-      <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/main/etc/dbt-logo-full.svg" width="48" title="dbt"/>
     </td>
   </tr>
 
@@ -247,11 +230,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32" title="Kubernetes"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="32" title="Ansible"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32" title="Terraform"/>
-      <!-- ArgoCD logo from official project (svg) -->
       <img src="https://raw.githubusercontent.com/argoproj/argo-cd/stable/docs/assets/argocd-icon-color.svg" width="32" title="Argo CD"/>
     </td>
   </tr>
 </table>
+
 ---
 ## 🌐 Connet with Me
 
