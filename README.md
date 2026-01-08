@@ -115,6 +115,35 @@
 
 </div>
 
+## 🥇 Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/BalaVenkataManiKumarVallapu-3367/E63A292CC9231ACF?sharingId=B92E419AE7C579EC" target="_blank">
+          <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
+               width="60" />
+        </a>
+        <br/>
+        <sub><b>Azure Fundamentals</b></sub>
+      </td>
+
+      <td align="center">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/BalaVenkataManiKumarVallapu-3367/7F1699754ED88430?sharingId=B92E419AE7C579EC" target="_blank">
+          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
+               width="60" />
+        </a>
+        <br/>
+        <sub><b>Fabric Data Engineer Associate</b></sub>
+      </td>
+
+      <!-- Add more <td> blocks here -->
+    </tr>
+  </table>
+</div>
+
+
 ---
 
 ## 📜 Resume
