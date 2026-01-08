@@ -67,6 +67,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bala@)
 
 ---
+
 ## 🥇 Certifications
 
 <div align="left">
@@ -88,12 +89,8 @@
         <br/>
         <sub><b>Fabric Data Engineer Associate</b></sub>
       </td>
-
-      <!-- Add more <td> blocks here -->
-    </tr>
   </table>
 </div>
-
 
 ---
 
