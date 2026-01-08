@@ -65,115 +65,87 @@
     <th align="left">Skills</th>
   </tr>
 
+  <!-- Operating Systems -->
   <tr>
     <td><b>Operating Systems</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="32"/>
     </td>
   </tr>
 
+  <!-- Languages & Querying -->
   <tr>
-    <td><b>Scripting</b></td>
+    <td><b>Languages & Querying</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" title="Python"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="32" title="PySpark"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" title="SQL"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" width="32" title="YAML"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="32" title="Bash"/>
+      <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/main/etc/dbt-logo-full.svg" width="48" title="Jinja / dbt"/>
     </td>
   </tr>
 
+  <!-- Cloud Platforms -->
   <tr>
     <td><b>Cloud Platforms</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="38"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32"/>
     </td>
   </tr>
 
+  <!-- Azure Platform -->
   <tr>
-    <td><b>Version Control</b></td>
+    <td><b>Azure Platform</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32" title="Azure Data Factory"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="32" title="Databricks"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32" title="ADLS Gen2"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32" title="Azure Key Vault"/>
+      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="32" title="Microsoft Fabric"/>
+    </td>
+  </tr>
+
+  <!-- Data Engineering -->
+  <tr>
+    <td><b>Data Engineering</b></td>
+    <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="32" title="Data Modeling"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="32" title="Data Warehousing"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2920/2920329.png" width="32" title="Data Quality"/>
+    </td>
+  </tr>
+
+  <!-- Data Tools -->
+  <tr>
+    <td><b>Data Tools</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/main/etc/dbt-logo-full.svg" width="48"/>
+    </td>
+  </tr>
+
+  <!-- DevOps & IaC -->
+  <tr>
+    <td><b>DevOps & IaC</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="32"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>CI / CD</b></td>
-    <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="32"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="32"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" width="32"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Build Tools</b></td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="32"/>
-      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="32"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Code Quality & Security</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="32"/>
-      <img src="https://trivy.dev/v0.22.0/imgs/logo.png" width="32"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Artifact Repositories</b></td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_of_Sonatype_Nexus_Repository.svg" width="38"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Web & App Servers</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="32"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Containers & IaC</b></td>
-    <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="32"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32"/>
     </td>
   </tr>
-
-  <tr>
-    <td><b>Monitoring & Logging</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" width="32"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>API Tools</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32"/>
-    </td>
-  </tr>
 </table>
-
-```
-
 ---
-
 ## 🌐 Connet with Me
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvmk04@gmail.com)
