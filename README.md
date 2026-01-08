@@ -67,57 +67,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bala@)
 
 ---
-
 ## 🥇 Certifications
 
-  <table style="width: 80%; border-spacing: 20px; text-align: center;">
-    <tr>
-      <td>
-        <a href="https://learn.microsoft.com/api/credentials/share/en-us/BalaVenkataManiKumarVallapu-3367/E63A292CC9231ACF?sharingId=B92E419AE7C579EC" target="_blank">
-          <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
-               alt="Microsoft Certified Badge" width="50" height="50" style="display: block; margin: 0 auto;" />
-        </a>
-        <p>Azure Fundamentals</p>
-      </td>
-    </tr>
-        <tr>
-      <td>
-        <a href="https://learn.microsoft.com/api/credentials/share/en-us/BalaVenkataManiKumarVallapu-3367/7F1699754ED88430?sharingId=B92E419AE7C579EC" target="_blank">
-          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
-               alt="Microsoft Certified Badge" width="50" height="50" style="display: block; margin: 0 auto;" />
-        </a>
-        <p>Fabric Data Engineer Associate</p>
-      </td>
-    </tr>
-  </table>
-  
-## 🥇 Certifications
-
-<div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center; text-align: center;">
-
-  <div>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/BalaVenkataManiKumarVallapu-3367/E63A292CC9231ACF?sharingId=B92E419AE7C579EC" target="_blank">
-      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
-           width="60" alt="Azure Fundamentals" />
-    </a>
-    <p>Azure Fundamentals</p>
-  </div>
-
-  <div>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/BalaVenkataManiKumarVallapu-3367/7F1699754ED88430?sharingId=B92E419AE7C579EC" target="_blank">
-      <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
-           width="60" alt="Fabric Data Engineer Associate" />
-    </a>
-    <p>Fabric Data Engineer Associate</p>
-  </div>
-
-  <!-- Add more certificates here -->
-
-</div>
-
-## 🥇 Certifications
-
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center">
@@ -128,7 +80,6 @@
         <br/>
         <sub><b>Azure Fundamentals</b></sub>
       </td>
-
       <td align="center">
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/BalaVenkataManiKumarVallapu-3367/7F1699754ED88430?sharingId=B92E419AE7C579EC" target="_blank">
           <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
