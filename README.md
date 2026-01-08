@@ -69,8 +69,8 @@
   <tr>
     <td><b>Operating Systems</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="32"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" title="Linux"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="32" title="Windows"/>
     </td>
   </tr>
 
@@ -93,6 +93,8 @@
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="32" title="aws"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original.svg" width="32" title="Azure"/>
+      <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/7cfacba8-a4e6-43eb-91f8-281537058780" title ="Fabric"/>
+
     </td>
   </tr>
 
