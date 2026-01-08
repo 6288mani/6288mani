@@ -41,11 +41,11 @@
     <td><b>Languages & Querying</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="40" title="Python"/>
-      <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/26583eee-3e7e-4c29-bda8-3c4ae9fd3d4f" title="PySpark"/>
+      <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/26583eee-3e7e-4c29-bda8-3c4ae9fd3d4f" title="PySpark"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" title="SQL"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/yaml/yaml-original.svg" width="40" title="YAML"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" width="40" title="Bash"/>
-      <img src="https://raw.githubusercontent.com/pallets/jinja/refs/heads/stable/docs/_static/jinja-name.svg" width="50" title="Jinja"/>
+      <img src="https://raw.githubusercontent.com/pallets/jinja/refs/heads/stable/docs/_static/jinja-name.svg" width="50" height="50"  title="Jinja"/>
     </td>
   </tr>
 
@@ -65,7 +65,7 @@
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" title="SQL Server"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" title="PostgreSQL"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" title="ADF"/>
+      <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f15246db-740e-4b9c-a6cb-3f8a52b5a335" title="ADF"/>
       <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6309d99a-4228-46b8-9da1-22261275b904" title="Databricks"/>
       <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/98d91177-e91e-471b-8bd7-764840dc9489" title="ADLS Gen2"/>
       <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/640f97aa-54ee-43a7-8028-3fbcac295fe6" title="Azure Key Vault"/>
