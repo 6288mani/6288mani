@@ -90,6 +90,44 @@
       </td>
     </tr>
   </table>
+## 🥇 Certifications
+
+<div class="certifications">
+  <div class="cert-card">
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/BalaVenkataManiKumarVallapu-3367/E63A292CC9231ACF?sharingId=B92E419AE7C579EC" target="_blank">
+      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
+           alt="Azure Fundamentals" />
+    </a>
+    <p>Azure Fundamentals</p>
+  </div>
+
+  <div class="cert-card">
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/BalaVenkataManiKumarVallapu-3367/7F1699754ED88430?sharingId=B92E419AE7C579EC" target="_blank">
+      <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
+           alt="Fabric Data Engineer Associate" />
+    </a>
+    <p>Fabric Data Engineer Associate</p>
+  </div>
+
+  <!-- Add more cert-card blocks here -->
+</div>
+
+<style>
+  .certifications {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 24px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .cert-card img {
+    width: 60px;
+    height: auto;
+    margin-bottom: 8px;
+  }
+</style>
 
 ---
 
