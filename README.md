@@ -73,18 +73,18 @@
   <table style="width: 80%; border-spacing: 20px; text-align: center;">
     <tr>
       <td>
-        <a href="https://learn.microsoft.com/en-us/users/balavenkatamanikumarvallapu-3367/credentials/e63a292cc9231acf" target="_blank">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/BalaVenkataManiKumarVallapu-3367/E63A292CC9231ACF?sharingId=B92E419AE7C579EC" target="_blank">
           <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
-               alt="Microsoft Certified Badge" width="100" height="100" style="display: block; margin: 0 auto;" />
+               alt="Microsoft Certified Badge" width="50" height="50" style="display: block; margin: 0 auto;" />
         </a>
         <p>Azure Fundamentals</p>
       </td>
     </tr>
         <tr>
       <td>
-        <a href="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" target="_blank">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/BalaVenkataManiKumarVallapu-3367/7F1699754ED88430?sharingId=B92E419AE7C579EC" target="_blank">
           <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
-               alt="Microsoft Certified Badge" width="100" height="100" style="display: block; margin: 0 auto;" />
+               alt="Microsoft Certified Badge" width="50" height="50" style="display: block; margin: 0 auto;" />
         </a>
         <p>Fabric Data Engineer Associate</p>
       </td>
