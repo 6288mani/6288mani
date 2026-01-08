@@ -69,8 +69,8 @@
   <tr>
     <td><b>Operating Systems</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" title="Linux"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="32" title="Windows"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" title="Windows"/>
     </td>
   </tr>
 
@@ -78,12 +78,12 @@
   <tr>
     <td><b>Languages & Querying</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="32" title="Python"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="32" title="PySpark"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="32" title="SQL"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/yaml/yaml-original.svg" width="32" title="YAML"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" width="32" title="Bash"/>
-      <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/main/etc/dbt-logo-full.svg" width="32" title="Jinja / dbt"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="40" title="Python"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" title="PySpark"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" title="SQL"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/yaml/yaml-original.svg" width="40" title="YAML"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" width="40" title="Bash"/>
+      <img src="https://raw.githubusercontent.com/pallets/jinja/refs/heads/stable/docs/_static/jinja-name.svg" width="40" title="Jinja"/>
     </td>
   </tr>
 
@@ -91,10 +91,9 @@
   <tr>
     <td><b>Cloud Platforms</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="32" title="aws"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original.svg" width="32" title="Azure"/>
-      <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/7cfacba8-a4e6-43eb-91f8-281537058780" title ="Fabric"/>
-
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" title="aws"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original.svg" width="40" title="Azure"/>
+      <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7cfacba8-a4e6-43eb-91f8-281537058780" title ="Fabric"/>
     </td>
   </tr>
 
@@ -102,11 +101,10 @@
   <tr>
     <td><b>Azure Platform</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32" title="ADF"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="32" title="Databricks"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32" title="ADLS Gen2"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32" title="Azure Key Vault"/>
-      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="32" title="Microsoft Fabric"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" title="ADF"/>
+      <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6309d99a-4228-46b8-9da1-22261275b904" title="Databricks"/>
+      <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/98d91177-e91e-471b-8bd7-764840dc9489" title="ADLS Gen2"/>
+      <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/640f97aa-54ee-43a7-8028-3fbcac295fe6" title="Azure Key Vault"/>
     </td>
   </tr>
 
@@ -114,9 +112,9 @@
   <tr>
     <td><b>Data Engineering</b></td>
     <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="32" title="Data Modeling"/>
-      <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="32" title="Data Warehousing"/>
-      <img src="https://cdn-icons-png.flaticon.com/512/2920/2920329.png" width="32" title="Data Quality"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="40" title="Data Modeling"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40" title="Data Warehousing"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2920/2920409.png" width="40" title="Data Quality"/>
     </td>
   </tr>
 
@@ -124,9 +122,9 @@
   <tr>
     <td><b>Data Tools</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="32" title="SQL Server"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg" width="32" title="PostgreSQL"/>
-      <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/main/etc/dbt-logo-full.svg" width="32" title="dbt"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" title="SQL Server"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" title="PostgreSQL"/>
+      <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9a11edb2-a9a0-4c5a-8415-3d02140aeec7" title="dbt"/>
     </td>
   </tr>
 
@@ -134,15 +132,15 @@
   <tr>
     <td><b>DevOps & IaC</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" title="git"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="32" title="jenkins"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="32" title="githubactions"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azuredevops/azuredevops-plain.svg" width="32" title="Azuredevops"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" title="Docker"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32" title="Kubernetes"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="32" title="Ansible"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32" title="Terraform"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/argocd/argocd-original-wordmark.svg" width="32" title="agroCD"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="git"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" title="jenkins"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" title="githubactions"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azuredevops/azuredevops-plain.svg" width="40" title="Azuredevops"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" title="Ansible"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" title="Terraform"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/argocd/argocd-original.svg" width="40" title="agroCD"/>
     </td>
   </tr>
 </table>
@@ -188,13 +186,13 @@
     <td><b>Languages & Querying</b></td>
     <td>
       <!-- SQL icon (generic) -->
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sqlite.svg" width="32" title="SQL"/>
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sqlite.svg" width="40" title="SQL"/>
       <!-- PySpark (Apache Spark official) -->
-      <img src="https://raw.githubusercontent.com/apache/spark/master/logo/spark-logo.svg" width="32" title="PySpark"/>
+      <img src="https://raw.githubusercontent.com/apache/spark/master/logo/spark-logo.svg" width="40" title="PySpark"/>
       <!-- Python official -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" title="Python"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
       <!-- YAML icon -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="32" title="YAML"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="40" title="YAML"/>
       <!-- Jinja official logo -->
       <img src="https://raw.githubusercontent.com/niiknow/jinja2-logo/master/jinja2.svg" width="40" title="Jinja"/>
       <!-- dbt official logo -->
