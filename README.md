@@ -142,23 +142,23 @@
 
 ---
 
-# 📊 My Stats
+# 📊 My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=6288mani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=6288mani&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=6288mani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6288mani&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6288mani&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6288mani&theme=dark&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=6288mani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=6288mani&theme=radical&no-bg=true&margin-w=4)
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=6288mani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=6288mani&limit=5&theme=dark)
 
 ---
 
