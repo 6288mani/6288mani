@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-
+<img src="https://github.com/6288mani/6288mani/blob/main/Black%20Modern%20Digital%20Marketing%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 </div>
 
 ---
