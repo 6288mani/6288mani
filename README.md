@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-<img src="" alt="Banner" width="100%" />
+
 </div>
 
 ---
