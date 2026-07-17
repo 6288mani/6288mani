@@ -123,6 +123,14 @@
         <br/>
         <sub><b>Fabric Data Engineer Associate</b></sub>
       </td>
+      <td align="center">
+        <a href="https://learn.microsoft.com/en-in/users/balavenkatamanikumarvallapu-3367/credentials/certification/fabric-analytics-engineer-associate" target="_blank">
+          <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+               width="60" />
+        </a>
+        <br/>
+        <sub><b>Fabric Analytics Engineer Associate</b></sub>
+      </td>
   </table>
 </div>
 
