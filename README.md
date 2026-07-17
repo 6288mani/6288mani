@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/6288mani/6288mani/main/Banner.png" alt="Banner" width="100%" />
+<img src="" alt="Banner" width="100%" />
 </div>
 
 ---
