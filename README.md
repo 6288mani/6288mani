@@ -134,21 +134,19 @@
   </table>
 </div>
 
----
+<!--
   
-    ## 📜 Resume
+  ## 📜 Resume
     
-      <div style="flex: 1; text-align: center;">
-        <a href="https://github.com/6288mani/6288mani/blob/main/Resume/Bala_DevOps_Resume.pdf" target="_blank">
-          <img src="https://img.shields.io/badge/-Download%20Resume-4CAF50?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"
-               alt="Download Resume" width="200" />
-        </a>
-        <p>Click here to download Resume</p>
-      </div>
-    
-    </div>
-  
-  ---
+  <div style="flex: 1; text-align: center;">
+    <a href="https://github.com/6288mani/6288mani/blob/main/Resume/Bala_DevOps_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/-Download%20Resume-4CAF50?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"
+          alt="Download Resume" width="200" />
+    </a>
+      <p>Click here to download Resume</p>
+  </div>
+---  
+-->
 
 # 📊 My GitHub Stats
 
